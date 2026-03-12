@@ -11,3 +11,4 @@ public class BookMyStayApp {
         System.out.println("Thank you for using Book My Stay.");
     }
 }
+
